@@ -1,0 +1,17 @@
+{
+    "name": "Bitcoin",
+    "type": "BEP20",
+    "symbol": "BTC",
+    "decimals": 18,
+    "website": "https://luccmick121.github.io/bitcoin/",
+    "description": "Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. BEP-20 representation on BNB Chain.",
+    "explorer": "https://bscscan.com/token/0x7130D1d8693C300F48A4b778d96290Ff0AfDad9c",
+    "status": "active",
+    "id": "0x7130D1d8693C300F48A4b778d96290Ff0AfDad9c",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bitcoin"
+        }
+    ]
+}
